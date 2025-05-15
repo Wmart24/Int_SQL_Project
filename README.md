@@ -74,23 +74,22 @@ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 - Re-engage high-value churned customers by focusing on targeted win-back campaigns rather than broad retention efforts, as reactivating valuable users may yield higher ROI.
 - Predict & promot churn risk and use customer-specific warning indicators to proactively intervene with at-risk users before they lapse.
 
-
 ## Strategic Recommendations
 
 1. **Customer Value Optimization** (Customer Segmentation)
-- Launch VIP program for 12,375 high value customers (66% revenue)
-- Create personalized upgrade paths for mid value segment ($66.6M -> 135.4M opportunity)
-- Design price sensitive promotions for low value segment to increase purchase frequency 
+- Launch VIP program for 12,375 high value customers who drive 66% of revenue to reduce churn and increase retention.
+- Introduce personalized upgrade paths for mid value customers to unlock a potential revenue increase from $66.6M to 135.4M.
+- Deploy cost effective re-engagement campaigns and promotional offers aimed at low value customers to encourage repeat purchases.
 
 2. **Cohort Performance Strategy** (Customer Revenue by Cohort)
-- Target 2022-2024 cohorts with personalized re-engagement offers
-- Implement loyalty/subscription programs to stabilize revenue fluctuations 
-- Apply successful strategies from high spending 2016-2018 cohorts to newer customers
+- Prioritize re-engagement efforts for 2022-2024 cohorts through personalized communication and incentives.
+- Introduce loyalty or subscription models to boost long term engagement and stabilize revenue from newer cohorts.
+- Analyze and replicate successful retention tactics from top performing 2016-2018 cohorts to improve outcomes in recent years.
 
 3. **Retention & Churn Preventions** (Customer Retention)
-- Strengthen first 1-2 year engagement with onboarding incentives and loyalty rewards
-- Focus on targeted win-back campaigns for high value churned customers 
-- Implement proactive intervention system for at risk customers before they lapse
+- Focus on the first 1-2 years of the customer journey with strong onboarding flows, loyalty rewards, and personalized outreach.
+- Launch high impact win back campaigns for churned high value customers to regain lost revenue more efficiently.
+- Develop a proactive churn prediction system using behavioral indicators to intervene before customers disengage. 
 
 ## Technical Details
 - **Database:** PostgreSQL
