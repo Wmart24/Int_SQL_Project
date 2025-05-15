@@ -70,8 +70,8 @@ Query: [3_retention_analysis.sql](3_retention_analysis.sql)
 - Newer cohorts (2022-2023) show similar churn trajectories, signaling that without intervention, future cohorts will follow the same pattern.
 
 **Business Insights:**
-- Strengthen early engagement strategies to target the first 1-2 years with onboarding incentives, loyalty rewards, adn personalized offers to improve long-term retention.
-- Re-engage high-value churned customers by focusing on targeted win-back campaigns rather than broad retention efforts, as reactivating valuable users may yeild higher ROI.
+- Strengthen early engagement strategies to target the first 1-2 years with onboarding incentives, loyalty rewards, and personalized offers to improve long-term retention.
+- Re-engage high-value churned customers by focusing on targeted win-back campaigns rather than broad retention efforts, as reactivating valuable users may yield higher ROI.
 - Predict & promot churn risk and use customer-specific warning indicators to proactively intervene with at-risk users before they lapse.
 
 
